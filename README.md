@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # NoktaParantez 6431
 ## Robot Code for Crescendo
 
